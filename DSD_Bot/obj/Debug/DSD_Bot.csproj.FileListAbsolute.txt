@@ -1,0 +1,9 @@
+E:\DSD\REST y MQ\REST\DSD_Bot\bin\Debug\DSD_Bot.exe.config
+E:\DSD\REST y MQ\REST\DSD_Bot\bin\Debug\DSD_Bot.exe
+E:\DSD\REST y MQ\REST\DSD_Bot\bin\Debug\DSD_Bot.pdb
+E:\DSD\REST y MQ\REST\DSD_Bot\obj\Debug\DSD_Bot.csprojResolveAssemblyReference.cache
+E:\DSD\REST y MQ\REST\DSD_Bot\obj\Debug\DSD_Bot.exe
+E:\DSD\REST y MQ\REST\DSD_Bot\obj\Debug\DSD_Bot.pdb
+D:\UPC\DSD\REST y MQ\REST\DSD_Bot\bin\Debug\DSD_Bot.exe.config
+D:\UPC\DSD\REST y MQ\REST\DSD_Bot\obj\Debug\DSD_Bot.exe
+D:\UPC\DSD\REST y MQ\REST\DSD_Bot\obj\Debug\DSD_Bot.pdb
